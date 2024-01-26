@@ -1,0 +1,91 @@
+.one{
+    text-align: center;
+    font-family: FreeSerif;
+
+}
+
+.three{
+    background-color: grey;
+
+
+}
+
+.two:link{
+    text-decoration: none;
+    border: darkolivegreen 1px solid;
+    outline: 0px;
+    font-family: FreeSans;
+    padding: 7px;
+    background-color: #3d3d3d;
+    border-radius: 20px;
+
+
+}
+#qq{
+    text-align: center;
+}
+
+.two:hover{
+    background-color: grey;
+    transition: 0.8s;
+    animation: ease-in-out;
+    animation-delay: 0.3s;
+
+    /*font-size: 20px;*/
+
+}
+
+
+.five{
+    font-family: "Liberation Sans";
+    text-align: center;
+
+}
+
+.six{
+    border: darkslategrey 1px solid;
+    padding: 8px;
+    background-color: grey;
+    font-family: FreeSans;
+    font-size: 20px;
+
+}
+
+.seven{
+    background-color: #484646;
+}
+.four{
+    text-align: right;
+    height: 40px;
+    /*background-color: darkred;*/
+    padding:10px;
+    margin: 10px;
+}
+.ig{
+    font-size: 100px;
+    color: #4d4b4b;
+    transition: 0.7s;
+
+}
+.ig:hover{
+    color: darkred;
+}
+
+.snap,.app{
+    color: grey;
+    font-size: 100px;
+    transition: 0.7s;
+}
+
+.snap:hover{
+    color: #b0b049;
+}
+.eight{
+    text-align: center;
+    padding: 50px;
+
+}
+
+.app:hover{
+    color: green;
+}
